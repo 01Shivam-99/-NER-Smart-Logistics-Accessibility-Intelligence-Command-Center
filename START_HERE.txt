@@ -1,0 +1,16 @@
+NER SMART LOGISTICS - LIVE GIS COMMAND CENTER
+
+WINDOWS:
+1. Install Python 3.11+ if it is not already installed.
+2. Double-click RUN.bat.
+3. The script creates its own .venv, installs requirements, and starts the dashboard.
+4. Open http://localhost:8501 if the browser does not open automatically.
+
+MAC / LINUX:
+1. Open Terminal in this folder.
+2. Run: ./RUN_MAC_LINUX.sh
+3. Open http://localhost:8501
+
+IMPORTANT:
+The demo includes simulated/estimated layers unless you configure real API sources.
+See README.md for details.

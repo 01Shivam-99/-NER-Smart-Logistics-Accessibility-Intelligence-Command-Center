@@ -1,0 +1,8 @@
+streamlit>=1.45
+pandas>=2.2
+numpy>=1.26
+folium>=0.17
+streamlit-folium>=0.23
+scikit-learn>=1.5
+requests>=2.32
+streamlit-autorefresh>=1.0
